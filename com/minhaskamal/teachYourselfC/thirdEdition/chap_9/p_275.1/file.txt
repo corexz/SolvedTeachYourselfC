@@ -1,0 +1,5 @@
+a to apple 
+b to ball
+c to cat
+e to elephant
+d to doll
